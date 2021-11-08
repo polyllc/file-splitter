@@ -3,8 +3,8 @@
   
   "compile":{
     "mainFile":"file-splitter.cpp",
-    "method":"singleg++"
-    "fileType":"single"
+    "method":"singleg++",
+    "fileType":"single",
     "solution":"no"
   }
 }
