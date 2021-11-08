@@ -2,7 +2,7 @@
   "programType":"cpp",
   
   "compile":{
-    "mainFile":"file-splitter.cpp",
+    "mainFile":"filesplitter.cpp",
     "method":"singleg++",
     "fileType":"single",
     "solution":"no"
