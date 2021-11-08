@@ -1,3 +1,10 @@
 {
-  "programType":"cpp"
+  "programType":"cpp",
+  
+  "compile":{
+    "mainFile":"file-splitter.cpp",
+    "method":"gpp"
+    "fileType":"single"
+    "solution":"no"
+  }
 }
