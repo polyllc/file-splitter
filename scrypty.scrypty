@@ -3,7 +3,7 @@
   
   "compile":{
     "mainFile":"file-splitter.cpp",
-    "method":"gpp"
+    "method":"singleg++"
     "fileType":"single"
     "solution":"no"
   }
